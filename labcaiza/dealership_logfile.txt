@@ -1,0 +1,25 @@
+[20:40:52-Jan-12-2022]: Download Used Car Data
+[20:40:53-Jan-12-2022]: ETL Job Started
+[20:40:53-Jan-12-2022]: Extract phase Started
+[20:40:53-Jan-12-2022]: Extract phase Ended
+[20:40:53-Jan-12-2022]: Transform phase Started
+[20:40:53-Jan-12-2022]: Transform phase Ended
+[20:40:53-Jan-12-2022]: Load phase Started
+[20:40:53-Jan-12-2022]: Load phase Ended
+[20:40:53-Jan-12-2022]: ETL Job Started
+[23:05:51-Jan-12-2022]: Download Used Car Data
+[23:05:51-Jan-12-2022]: ETL Job Started
+[23:05:51-Jan-12-2022]: Extract phase Started
+[23:05:51-Jan-12-2022]: Extract phase Ended
+[23:05:51-Jan-12-2022]: Transform phase Started
+[23:05:51-Jan-12-2022]: Transform phase Ended
+[23:05:51-Jan-12-2022]: Load phase Started
+[23:05:51-Jan-12-2022]: Load phase Ended
+[23:05:51-Jan-12-2022]: ETL Job Started
+[23:08:01-Jan-12-2022]: ETL Trabajo iniciado
+[23:08:01-Jan-12-2022]: Inicia Fase De Extraccion
+[23:08:01-Jan-12-2022]: Finaliza Fase De Extraccion
+[23:08:01-Jan-12-2022]: Inicia Fase De Transformacion
+[23:08:01-Jan-12-2022]: Finaliza Fase De Transformacion
+[23:08:01-Jan-12-2022]: Inicia Fase De Carga
+[23:08:01-Jan-12-2022]: Finaliza Fase De Carga
